@@ -8,4 +8,4 @@
 	веб приложение, в котором можно создавать колекции флеш карточек и тестов на различные темы
 }
 
-https://docs.google.com/spreadsheets/d/1meY5D1fYa9sLMA5X62e57pYWUyT-UwrS9kblHUsZmWk/edit?usp=sharing
+
