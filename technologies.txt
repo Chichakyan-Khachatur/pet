@@ -5,14 +5,22 @@ Django фреймворк
 
 Jinja Шаблонизатор 
 
+unit тестироваие
+
 Rest API
 
 PostgreSQL
+
+SQL
 
 не реляционные базы данных
 
 HTTP протокол
 
+HTML (начальный)
 
+css (начальный)
 
+Bootstrap (начальный)
 
+javaScript (начальный)
