@@ -1,0 +1,18 @@
+
+Python 
+
+Django фреймворк
+
+Jinja Шаблонизатор 
+
+Rest API
+
+PostgreSQL
+
+не реляционные базы данных
+
+HTTP протокол
+
+
+
+
