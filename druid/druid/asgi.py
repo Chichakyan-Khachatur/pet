@@ -1,5 +1,5 @@
 """
-ASGI config for ddtrein project.
+ASGI config for druid project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ddtrein.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'druid.settings')
 
 application = get_asgi_application()

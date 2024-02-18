@@ -1,5 +1,5 @@
 """
-WSGI config for ddtrein project.
+WSGI config for druid project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ddtrein.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'druid.settings')
 
 application = get_wsgi_application()
