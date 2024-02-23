@@ -1,0 +1,29 @@
+body {
+   background-color: #1E1E1E;  
+   color: #CCCCC1;
+   padding: 0;
+}
+
+header {
+    background-color: #323233; 
+    height: 25pt;
+    text-align: center;
+    margin: 0;
+    padding-top: 10px;
+}
+
+h3 {
+    margin: 0;
+}
+
+#conductor {
+    background-color: #252526; 
+    display: inline-block;
+    width: 150px;
+}
+
+#icons {
+    background-color: #333333; 
+    display: inline-block;
+    width: 40px;
+}

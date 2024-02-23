@@ -6,9 +6,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>{% block title %}{% endblock %}: Друид</title>
-    <link rel="stylesheet" type="texe/css" href="{% static 'main/style.css' %}">
+    {% bootstrap_css %}
+    <link rel="stylesheet" type="text/css" href="{% static 'main/style.css' %}">
+    {% bootstrap_javascript jquery='slim' %}
+    </style>
 </head>
 <body>
-    этот раздел находится в разработке
+    <div class="row">
+        <div class="col-sm text-center">
+            <header>Друид</header>
+        </div>
+    </div> 
+    <div class="row">
+        <div class="col", id="icons">
+            Па
+        </div>
+        <div class="col-3", id="conductor">
+            <h5>Библиотека</h5>
+        <p>Папка 1</p>
+        <p>Папка 2</p>
+        <p>Папка 3</p>
+        </div>
+        <div class="col-8">
+            этот раздел находится в разработке
+        </div>
+    </div> 
 </body>
 </html>
